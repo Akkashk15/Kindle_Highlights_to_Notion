@@ -1,0 +1,24 @@
+{
+  "name": "kindle_highlights_sync",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "karad",
+  "license": "ISC",
+  "dependencies": {
+    "ejs": "^3.1.6",
+    "ejs-mate": "^3.0.0",
+    "express": "^4.17.1",
+    "express-fileupload": "^1.2.1",
+    "method-override": "^3.0.0",
+    "nodeman": "^1.1.2",
+    "nodemon": "^2.0.7",
+    "path": "^0.12.7",
+    "python-shell": "^3.0.0",
+    "uuid": "^8.3.2"
+  }
+}
