@@ -25,14 +25,9 @@
 2. Go to Application tab and find Cookies tab on the left.
 3. Click on [notion.so](http://notion.so) cookies.
 4. Find token_v2 cookie and double click on it's value and copy it and paste it inside token_v2 field.
-## Table Link
-
-1. Make a new notion page. Now press the table option when prompted with options for the new page
-2. Now on the top-right corner, click on Share button. Enable Share to Web and also allow editing, allow comments and allow duplicate as template. **This is very important and highlights cannot be imported if this is not done.**
-3. Now press on 3 horizontal dots on the top-right corner of table and select Copy Link to view.
-4. Paste this value to the Notion Table URL field.
-
+## Pasting Notion Page Link
+1. Make new notion page.
+2. Copy link of this page and paste it into Notion Page URL field.
 ## That's it!
-
 - The highlights will automatically be added to your Notion Account.
-- This may take some time, so don't disturb it. After the process is finished, you can make your page private!
+- This may take some time, so don't disturb it.
