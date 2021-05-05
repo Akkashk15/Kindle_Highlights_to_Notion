@@ -28,7 +28,6 @@ app.post("/",function(req,res){
         var filename=uuidv4()+file.name;
         var token_v2=req.body.notionToken;
         var table_link=req.body.tableLink;
-        console.log(token_v2);console.log(table_link);
 
         file.mv("./uploads/"+filename,function(err){
             if(err){
